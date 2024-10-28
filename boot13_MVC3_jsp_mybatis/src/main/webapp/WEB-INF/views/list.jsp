@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>jenkins test222222222</h1>
+<h1>jenkins test222222222 CI CD</h1>
 <h1>Dept 테이블 목록보기</h1><%-- ${allData} --%>
 <table border="1">
   <tr>
